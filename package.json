@@ -1,0 +1,27 @@
+{
+  "name": "block-serve",
+  "version": "0.0.1",
+  "description": "Basic Blockchain Server helper currently a prototype",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "6.11.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ssnnaruka/block-serve.git"
+  },
+  "keywords": [
+    "blockchain",
+    "nodsjs",
+    "server"
+  ],
+  "author": "Saurabh S Naruka",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ssnnaruka/block-serve/issues"
+  },
+  "homepage": "https://github.com/ssnnaruka/block-serve#readme"
+}
